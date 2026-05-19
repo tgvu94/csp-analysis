@@ -2,6 +2,8 @@
 
 An MCP server that fetches stock data to support weekly cash-secured put (CSP) analysis using the wheel strategy.
 
+> **Disclaimer:** This tool is for informational and educational purposes only. Output is purely technical analysis based on publicly available market data and does not constitute financial advice. Do not make investment decisions based solely on this output. Always do your own research and consult a qualified financial advisor before trading options.
+
 ## Tools
 
 | Tool | Description |
