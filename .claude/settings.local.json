@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__csp-data__get_iv_data",
+      "mcp__csp-data__get_price_and_fundamentals",
+      "mcp__csp-data__get_technicals",
+      "mcp__csp-data__get_options_chain"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "csp-data"
+  ]
+}
