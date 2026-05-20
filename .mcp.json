@@ -1,8 +1,9 @@
 {
   "mcpServers": {
     "csp-data": {
-      "command": "python3",
-      "args": ["server.py"]
+      "command": "/Users/adamvu/csp-analysis/.venv/bin/python",
+      "args": ["server.py"],
+      "cwd": "/Users/adamvu/csp-analysis"
     }
   }
 }
